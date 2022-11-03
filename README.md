@@ -1,5 +1,5 @@
 # CPIT252-Lab6-submission
-This is the submission file for lab 10 activity for CPIT252
+This is the submission file for lab 6 activity for CPIT252
 
 ![questions](questions.jpg)
 
